@@ -4,7 +4,7 @@ import { getUserLocale } from './lib/locale'
 export const locales = ['en-US', 'de-DE', 'fi'] as const
 export type Locale = (typeof locales)[number]
 export type Locales = ReadonlyArray<Locale>
-export const defaultLocale: Locale = 'en-US'
+export const defaultLocale: Locale = 'de-DE'
 
 export default getRequestConfig(async () => {
   const locale = await getUserLocale()
