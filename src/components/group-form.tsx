@@ -166,7 +166,7 @@ export function GroupForm({
               )}
             />
 
-            <div className="col-span-2">
+            <div className="sm:col-span-2">
               <FormField
                 control={form.control}
                 name="information"
