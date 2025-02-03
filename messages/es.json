@@ -205,7 +205,6 @@
     "saving": "Guardando",
     "cancel": "Cancelar",
     "reimbursement": "Reembolso"
-
   },
   "ExpenseDocumentsInput": {
     "TooBigToast": {
@@ -294,18 +293,6 @@
   },
   "Settings": {
     "title": "Ajustes"
-  },
-  "Locale": {
-    "en-US": "English",
-    "fi": "Suomi",
-    "fr-FR": "Français",
-    "es": "Español",
-    "de-DE": "Deutsch",
-    "zh-CN": "Chinese (Simplified)",
-    "pl-PL": "Polski",
-    "ru-RU": "Русский",
-    "it-IT": "Italiano",
-    "ua-UA": "Українська"
   },
   "Share": {
     "title": "Compartir",
